@@ -19,7 +19,7 @@ To make the most of these demos, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/demo-repo.git
+   git clone https://github.com/HiruDewmi/Python-Notebooks.git
    ```
 
 2. Explore the notebooks in the `Notebooks` directory:
