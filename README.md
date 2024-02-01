@@ -12,9 +12,6 @@ Welcome to the demo repository showcasing various Python notebooks. Here, you'll
    - A comprehensive notebook demonstrating a linear regression model for breast cancer prediction.
    - Dive into the analysis of a dataset with 569 entries and 30 columns, predicting whether a patient has Benign or Malignant cancer.
 
-3. **ResNet Model Reconstruction:**
-   - Witness the reconstruction process of a ResNet model, gaining insights into its architecture and functionality.
-   - Understand the techniques used for model reconstruction and their applications.
 
 ## Getting Started
 
@@ -28,7 +25,6 @@ To make the most of these demos, follow these steps:
 2. Explore the notebooks in the `Notebooks` directory:
    - [Stable_Diffusion_Demo.ipynb](Notebooks/Stable_Diffusion_Demo.ipynb)
    - [Breast_Cancer_Classification.ipynb](Notebooks/Breast_Cancer_Classification.ipynb)
-   - [ResNet_Model_Reconstruction.ipynb](Notebooks/ResNet_Model_Reconstruction.ipynb)
 
 3. Run the notebooks using your preferred Jupyter Notebook environment.
 
